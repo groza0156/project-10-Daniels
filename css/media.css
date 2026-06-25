@@ -6,9 +6,9 @@
 
 /* md */
 @media (max-width: 768px) {
-  #Home h1,
-  #Home h1::after {
-    font-size: 30;
+  #home h1,
+  #home h1::after {
+    font-size: 30px;
     transform: translateX(0);
   }
 }
